@@ -26,6 +26,9 @@ This fine-tuned model can be applied in the following scenarios:
 
 ---
 
+## Fine-tuning workflow
+![Workflow Diagram]()
+
 ## 🛠️ Setup
 
 ### 1. Clone the Repository
