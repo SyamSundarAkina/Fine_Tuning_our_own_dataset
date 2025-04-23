@@ -6,11 +6,23 @@ This project fine-tunes a GPT-2 model using **LoRA (Low-Rank Adaptation)** for *
 
 ## 📌 Features
 
-- ✅ Fine-tunes GPT-2 using LoRA for reduced compute and memory usage
-- 🧠 Emotion classification from user text inputs
-- 🧹 Cleans and converts dataset into JSONL format for instruction-tuned training
-- 📉 Evaluates performance using BLEU, ROUGE, and METEOR
-- 💾 Saves fine-tuned model for inference or future use
+- ✅ Fine-tunes GPT-2 using LoRA for reduced compute and memory usage  
+- 🧠 Emotion classification from user text inputs  
+- 🧹 Cleans and converts dataset into JSONL format for instruction-tuned training  
+- 📉 Evaluates performance using BLEU, ROUGE, and METEOR  
+- 💾 Saves fine-tuned model for inference or future use  
+
+---
+
+## 💡 Use Cases
+
+This fine-tuned model can be applied in the following scenarios:
+
+- **Customer Support** – Detects emotional tone in messages to improve service response and escalation.  
+- **Chatbots** – Enables emotion-aware virtual assistants that adapt tone and replies.  
+- **Mental Health Applications** – Monitors user sentiment in journals or messages for emotional well-being tracking.  
+- **Social Media Analysis** – Identifies emotion trends in tweets, posts, and reviews for brand or public sentiment.  
+- **EdTech and HR Platforms** – Analyzes feedback and engagement sentiment to enhance learning or workplace experience.
 
 ---
 
@@ -21,4 +33,3 @@ This project fine-tunes a GPT-2 model using **LoRA (Low-Rank Adaptation)** for *
 ```bash
 git clone https://github.com/SyamSundarAkina/Fine_Tuning_our_own_dataset.git
 cd Fine_Tuning_our_own_dataset
-
