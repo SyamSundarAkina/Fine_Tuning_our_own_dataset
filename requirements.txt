@@ -6,3 +6,5 @@ bitsandbytes
 accelerate
 nltk
 rouge-score
+meteor_score
+bleu_score
