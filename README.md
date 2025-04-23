@@ -26,8 +26,10 @@ This fine-tuned model can be applied in the following scenarios:
 
 ---
 
-## Fine-tuning workflow
-![Workflow Diagram]()
+## 📈 Fine-Tuning Workflow
+
+<img src="./assets/workflow.png" alt="Workflow Diagram" width="300"/>
+
 
 ## 🛠️ Setup
 
